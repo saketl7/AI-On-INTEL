@@ -1,4 +1,4 @@
-# **AI from Data Center to the Edge** - An Optimized path using Intel Architecture
+# AI from Data Center to the Edge - *An Optimized path using Intel Architecture*
 
 ## Dataset Citation
 A Large and Diverse Dataset for Improved Vehicle Make and Model Recognition
