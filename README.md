@@ -29,7 +29,7 @@ Hands-on understanding of building a deep learning model and deploying to the ed
    - Explore data visually to understand distribution 
    - Data Reduction and address imbalances
    
- 3. Training the models
+ **3. Training the models
    - Infrastructure: Intel® AI DevCloud, Amazon Web Services, Google Compute Engine, Microsoft Azure
    - Process: Prepare and visualize the dataset, prepare for consumption into framework, hyper-parameter tuning, training, validate
    
