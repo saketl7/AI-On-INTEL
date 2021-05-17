@@ -9,10 +9,8 @@ F. Tafazzoli, K. Nishiyama and H. Frigui
 [In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops 2017](http://vmmrdb.cecsresearch.org/papers/VMMR_TSWC.pdf).
 
 ## Learning Objective
-Use Intel hardware and software portfolio and demonstrate the data science process
-
-• Hands-on understanding of building a deep learning model and deploying to the edge
-
+**Use Intel hardware and software portfolio and demonstrate the data science process**
+Hands-on understanding of building a deep learning model and deploying to the edge
 - Use an enterprise image classification problem
 - Perform Exploratory Data Analysis on the VMMR dataset
 - Choose a framework and network
