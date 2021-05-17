@@ -19,12 +19,12 @@ Hands-on understanding of building a deep learning model and deploying to the ed
 - Deploy the model on CPU, integrated Graphics and Intel® MovidiusTM Neural Compute Stick
 
 ## Training Outline
- 1. Intel’s AI Portfolio
+ **1. Intel’s AI Portfolio**
    - Hardware: From training to inference with emphasis on 2nd Gen Intel® XeonTM Scalable Processors
    - Software: Frameworks, libraries and tools optimized for Intel® Architecture
    - Community resources: Intel Developer Zone Resources
 
- 2. Exploratory Data Analysis
+ **2. Exploratory Data Analysis**
    - Obtain a dataset
    - Explore data visually to understand distribution 
    - Data Reduction and address imbalances
